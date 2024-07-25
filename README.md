@@ -9,7 +9,8 @@ MENTOR : SRAVANI GOUNI
 
 
 Project Overview: Express.js (Node.js)
-Goal
+
+Goal:
 The goal of this project is to create a basic RESTful API using Express.js that supports the primary HTTP methods (GET, POST, PUT, DELETE). This API will handle CRUD (Create, Read, Update, Delete) operations for a resource called items.
 
 Technologies Used
