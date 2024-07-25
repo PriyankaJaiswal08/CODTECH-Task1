@@ -1,10 +1,15 @@
 # CODTECH-Task1
 
 NAME : PRIYANKA JAISWAL
+
 COMPANY : CODTECH IT SOLUTIONS
+
 ID : CT08DS3261
+
 DOMAIN : BACKEND
+
 DURATION : JUNE 25th,2024 to JULY 25th,2024
+
 MENTOR : SRAVANI GOUNI
 
 
@@ -38,3 +43,6 @@ Updates an existing item with the specified ID using data received in the reques
 
 DELETE '/items/:id'
 Deletes the item with the specified ID and returns a message indicating the item was deleted.
+![Screenshot 2024-07-25 132431](https://github.com/user-attachments/assets/ed997600-fadd-4955-8f8c-fb25b7a4b93d)
+
+
